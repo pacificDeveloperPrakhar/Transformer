@@ -1,0 +1,8 @@
+ipykernel
+jupyter
+huggingface_hub
+python-dotenv
+redis
+pandas
+tabulate
+torch

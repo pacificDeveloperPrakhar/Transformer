@@ -8,5 +8,12 @@
     "data_path":"/content/drive/MyDrive/Transformer_model/data",
     "segment":0,
     "model_path":"/content/drive/MyDrive/Transformer_model/model.pth",
-    "logs":"/content/drive/MyDrive/Transformer_model/logs"
+    "logs":"/content/drive/MyDrive/Transformer_model/logs",
+    "max_len":100,
+    "preload":false,
+    "batch_size":10,
+    "num_heads":8,
+    "d_model":512,
+    "ffn_dim":2048,
+    "num_layers":6
 }

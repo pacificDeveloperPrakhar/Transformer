@@ -1,0 +1,1 @@
+# all the files specified here are stored in the drive and we will be training our model in the google colab 

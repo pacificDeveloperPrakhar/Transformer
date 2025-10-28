@@ -1,0 +1,12 @@
+
+{
+    "current_epochs":0,
+    "total_epochs":16,
+    "learning_rate":0.01,
+    "label_smoothing":0.1,
+    "dropout":0.1,
+    "data_path":"/content/drive/MyDrive/Transformer_model/data",
+    "segment":0,
+    "model_path":"/content/drive/MyDrive/Transformer_model/model.pth",
+    "logs":"/content/drive/MyDrive/Transformer_model/logs"
+}

@@ -6,7 +6,7 @@
     "label_smoothing":0.1,
     "dropout":0.1,
     "data_path":"/content/drive/MyDrive/Transformer_model/data",
-    "segment":0,
+    "segment":1,
     "model_path":"/content/drive/MyDrive/Transformer_model/model.pth",
     "logs":"/content/drive/MyDrive/Transformer_model/logs",
     "max_len":100,
@@ -15,5 +15,6 @@
     "num_heads":8,
     "d_model":512,
     "ffn_dim":2048,
+    "total_segments":129,
     "num_layers":6
 }

@@ -10,7 +10,7 @@
     "model_path":"/content/drive/MyDrive/Transformer_model/model.pth",
     "logs":"/content/drive/MyDrive/Transformer_model/logs",
     "max_len":100,
-    "preload":false,
+    "preload":true,
     "batch_size":10,
     "num_heads":8,
     "d_model":512,
